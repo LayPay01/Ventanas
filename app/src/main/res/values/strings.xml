@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ventanas</string>
+    <string name="Title1">Ventana Principal</string>
+    <string name="Title2">Ventana 2 :)</string>
+    <string name="Title3">Ventana 3 :D</string>
+    <string name="Title4">Ventana 4 :3</string>
+    <string name="principal">Ir a la ventana principal</string>
+    <string name="vent2">Ir a la ventana 2</string>
+    <string name="vent3">Ir a la ventana 3</string>
+    <string name="vent4">Ir a la ventana 4</string>
+</resources>
